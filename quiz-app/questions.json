@@ -1,0 +1,58 @@
+[
+    {
+      "question": "What is the platform built on Chrome's V8 JavaScript runtime for building fast and scalable network applications?",
+      "options": ["Python", "Node.js", "Java", "C#"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which module is required to create a web server in Node.js?",
+      "options": ["http", "fs", "url", "path"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which of the following is the correct way to import modules in Node.js?",
+      "options": ["import fs from 'fs';", "const fs = require('fs');", "using fs;", "include fs;"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the main purpose of the Node.js event loop?",
+      "options": ["To handle asynchronous operations", "To execute synchronous code", "To process database queries", "To generate random numbers"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which Node.js package manager is commonly used to install and manage dependencies?",
+      "options": ["npm", "pip", "brew", "yarn"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which core module in Node.js is used for file system operations?",
+      "options": ["http", "fs", "path", "url"],
+      "correctIndex": 1
+    },
+    {
+      "question": "In Node.js, what does the 'require' function do?",
+      "options": ["Imports external libraries", "Defines a new variable", "Executes a callback function", "Creates a new file"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What does the term 'callback' refer to in Node.js?",
+      "options": ["A function passed as an argument to another function", "A built-in Node.js module", "A JavaScript data type", "A Node.js package manager"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which HTTP method is typically used to retrieve data from a server in Node.js?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the purpose of the 'package.json' file in a Node.js project?",
+      "options": ["To store metadata about the project", "To define project dependencies", "To configure build scripts", "All of the above"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which Node.js function is used to handle errors that occur during asynchronous operations?",
+      "options": ["try...catch", "errorHandler", "onError", "callback function"],
+      "correctIndex": 3
+    }
+  ]
+  
