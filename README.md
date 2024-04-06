@@ -24,7 +24,7 @@ This is a simple Node.js quiz application that tests the knowledge of users on N
 ## Installation
 
 1. Clone the repository to your local machine:
-``git clone https://github.com/your-username/nodejs-quiz-app.git``
+``git clone https://github.com/Uselessme21/solid-giggle-quiZ-app``
 2. Navigate to the project directory:
 ``cd quiz-app``
 3. Install dependencies using npm:
